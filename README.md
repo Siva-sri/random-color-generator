@@ -1,2 +1,2 @@
 # random-color-generator
-Generate cool colors for using in your website designs
+Generate cool colors to use in the website for designing...
